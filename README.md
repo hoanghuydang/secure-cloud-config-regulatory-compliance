@@ -1,5 +1,7 @@
 # secure-cloud-config-regulatory-compliance
 
+![image](https://github.com/hoanghuydang/secure-cloud-config-regulatory-compliance/assets/127445164/47ad3a7c-13bc-4774-9ac5-582ea5a07812)
+
 ***LAB Precursor:***
 
 It is important to highlight that during the initial deployment, all resources were exposed directly to the internet. 
